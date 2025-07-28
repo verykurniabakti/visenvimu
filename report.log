@@ -87,3 +87,15 @@
 2025-07-28 10:46:22,659 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
 2025-07-28 10:51:16,904 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
 2025-07-28 10:51:19,884 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8412698412698413, best pos: [31.93669901  0.05495305]
+2025-07-28 11:01:30,531 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-28 11:01:30,538 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-28 11:05:34,230 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-28 11:05:36,135 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.7936507936507936, best pos: [24.93431351  0.03574761]
+2025-07-28 11:14:39,159 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-28 11:14:39,163 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-07-28 11:14:40,656 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-28 11:14:42,508 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8412698412698413, best pos: [8.2374243e+01 4.8480081e-02]
+2025-07-28 16:24:58,316 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-28 16:25:00,229 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8015873015873015, best pos: [58.41754416  0.09144445]
+2025-07-28 16:28:36,361 - pyswarms.single.global_best - INFO - Optimize for 50 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2025-07-28 16:28:39,173 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.8412698412698413, best pos: [2.37299182e+01 7.30562507e-03]
