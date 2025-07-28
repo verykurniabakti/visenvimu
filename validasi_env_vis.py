@@ -8,7 +8,7 @@ from pathlib import Path
 # ✅ Modul yang dibutuhkan
 modules = [
     'numpy', 'pandas', 'matplotlib', 'seaborn', 'scipy',
-    'scikit-learn', 'plotly', 'kaleido', 'ipykernel'
+    'scikit-learn', 'plotly', 'kaleido', 'openpyxl', 'ipykernel'
 ]
 
 print("🔍 Validasi Environment untuk Workflow IMU")
