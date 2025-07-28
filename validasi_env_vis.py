@@ -7,7 +7,7 @@ from pathlib import Path
 
 # ✅ Modul yang dibutuhkan
 modules = [
-    'numpy', 'pandas', 'matplotlib', 'seaborn', 'scipy',
+    'numpy', 'pandas', 'matplotlib', 'seaborn', 'scipy', 'jinja2',
     'scikit-learn', 'plotly', 'kaleido', 'openpyxl', 'ipykernel'
 ]
 
